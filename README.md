@@ -29,6 +29,7 @@ WEAT effect size of -0.32843477256190995 was noted and p value of 0.874219 is fo
 
 Thus for the 3 cases for SC WEAT, the p value is too high and the null hypothesis is rejected.
 
+Colab link :  https://colab.research.google.com/drive/12mHpIbxXdqtTflWUtClFzEEcJYWvZRtK#scrollTo=hU96nnZdnxFL
 ### The ipynb contains the executed code run for the above tasks.
 
 ### References: 
