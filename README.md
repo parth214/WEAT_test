@@ -32,5 +32,5 @@ Thus for the 3 cases for SC WEAT, the p value is too high and the null hypothesi
 
 ### References: 
 
-Caliskan, A., Bryson, J. J. and Narayanan, A. (2017) Semanticsderived automatically from language corpora contain human-likebiases. Science, 356 (6334). pp. 183-186. ISSN 0036-8075
+Caliskan, A., Bryson, J. J. and Narayanan, A. (2017) Semantics derived automatically from language corpora contain human-likebiases. Science, 356 (6334). pp. 183-186. ISSN 0036-8075
 
