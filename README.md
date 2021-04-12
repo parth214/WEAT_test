@@ -18,6 +18,7 @@ d is high but the p-value is above the threshold of 10^(-2). P value may be high
 ### 2) SC-WEAT effect-size and p-value with an empirical distribution generated via 1,000,000 permutations for the case sensitive words "Parth", "weat", and "AylinCaliskan".
 
 attribute1 = caress, freedom, health, love, peace, cheer, friend, heaven, loyal, pleasure, diamond, gentle, honest, lucky, rainbow, diploma, gift, honor, miracle, sunrise, family, happy, laughter, paradise, vacation
+
 attribute2 = abuse, crash, filth, murder, sickness, accident, death, grief, poison, stink, assault, disaster, hatred, pollute, tragedy, divorce, jail, poverty, ugly, cancer, kill, rotten, vomit, agony, prison
 
 WEAT effect sizes -0.03590634359010653 and -0.1544695499596644 are noticed for "Parth" and "weat" respectively. The p values of both are too high over the threswhold (0.548877 and 0.704144 respectively).
