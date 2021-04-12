@@ -22,13 +22,13 @@ attribute2 = abuse, crash, filth, murder, sickness, accident, death, grief, pois
 
 WEAT effect sizes -0.03590634359010653 and -0.1544695499596644 are noticed for "Parth" and "weat" respectively. The p values of both are too high over the threswhold (0.548877 and 0.704144 respectively).
 
-For the token "AylinCaliskan" since an embedding wasnt available, I used Regular Expressions to split the token by capital letters, that is 'Aylin' and 'Caliskan'. Then glove embeddings were generated for both words separately and the mean of them was used. A function get_glove_vec is used to do these subtasks.
+For the token "AylinCaliskan" since an embedding wasnt available, I used Regular Expressions to split the token by capital letters, that is 'Aylin' and 'Caliskan'. Then glove embeddings were generated for both words separately and the mean of them was used. A function get_glove_vec is used to do all of these subtasks.
 
 WEAT effect size of -0.32843477256190995 was noted and p value of 0.874219 is found.
 
 Thus for the 3 cases for SC WEAT, the p value is too high and the null hypothesis is rejected.
 
-### The ipynb contains the executed code run fot the above tasks.
+### The ipynb contains the executed code run for the above tasks.
 
 ### References: 
 
